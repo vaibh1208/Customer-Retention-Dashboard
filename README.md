@@ -1,9 +1,6 @@
 # Customer-Retention-Dashboard
 This repository contains a customer retention dashboard project for analyzing telecom data to identify at-risk customers and improve retention strategies.
 
-## Overview
-This project focuses on analyzing telecom customer data to create a self-explanatory dashboard for identifying at-risk customers and improving retention strategies.
-
 ## Objectives
 - Visualize customer data for better insights.
 - Identify customers at risk of contract termination.
