@@ -17,3 +17,11 @@ This project focuses on analyzing telecom customer data to create a self-explana
 ## Tools Used
 - **Python**: For data cleaning and analysis.
 - **Power BI/Tableau**: For creating the dashboard.
+
+##Dashboard Snapshots - 
+
+![3 Welcome Screen](https://github.com/user-attachments/assets/75254c73-5937-4837-8537-7299bfdd7229)
+
+![3 Churn_Dashboard](https://github.com/user-attachments/assets/ccd92048-a8e5-43e3-b523-07652a6d0e45)
+
+![3 Customer_Risk_Analysis](https://github.com/user-attachments/assets/eab8199a-8c1a-4824-9711-fb3ce3e9d833)
