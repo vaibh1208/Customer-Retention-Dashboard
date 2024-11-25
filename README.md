@@ -12,7 +12,7 @@ This repository contains a customer retention dashboard project for analyzing te
 3. **Email Report**: A concise email summarizing findings and recommendations.
 
 ## Tools Used
-- **Python**: For data cleaning and analysis.
+- **Excel**: For data cleaning and analysis.
 - **Power BI/Tableau**: For creating the dashboard.
 
 ##Dashboard Snapshots - 
